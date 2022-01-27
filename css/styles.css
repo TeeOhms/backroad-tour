@@ -511,6 +511,7 @@ Contact
   display: flex;
   flex-wrap: wrap;
   max-width: 28rem;
+  gap: 1rem 0;
 }
 .form-control {
   flex: 1 1 auto;
